@@ -1,0 +1,1 @@
+cmd_/home/jerry/working/led_button_exmaple/gpio_driver.ko := aarch64-linux-gnu-ld -r  -EL  -maarch64elf -z noexecstack   --build-id=sha1  -T scripts/module.lds -o /home/jerry/working/led_button_exmaple/gpio_driver.ko /home/jerry/working/led_button_exmaple/gpio_driver.o /home/jerry/working/led_button_exmaple/gpio_driver.mod.o;  true
